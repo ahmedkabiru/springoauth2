@@ -23,11 +23,10 @@ Copy from (including) -----BEGIN PUBLIC KEY----- to (including) -----END PUBLIC 
 
 
 Step Process :
-1. Clone Repository 
-git clone https://github.com/ahmedkabiru/springoauth2.git
 
-2: Start Up Spring project 
-mvn clean spring-boot:run
+1.Clone Repository :git clone https://github.com/ahmedkabiru/springoauth2.git
 
-3: Launch PostMan to generate 
+2: Start Up Spring project :mvn clean spring-boot:run
+
+3: Launch PostMan to generate TOKEN
 
